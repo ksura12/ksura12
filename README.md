@@ -7,7 +7,7 @@ In this Repo you will find the Projects I coded so far as part of the schools cu
 
 |  Circle | No. | Project                                     | Short Description  | Status |     Score    | Language |
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: | :------: |
-|--( 5 )--| 18  | [ft_irc](../../../ft_irc)                | creating an IRC server in C++    | -     | in process | C++ 98 |
+|--( 5 )--| 18  | [ft_irc](../../../ft_irc)                | creating an IRC server in C++    |  ✅     |  125 / 100 %  | C++ 98 |
 |--( 4 )--| 17  | [CPP Module 08](../../../42_CPP_intro/CPP_08)         | containers, iterators, algorithms| ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 16  | [CPP Module 07](../../../42_CPP_intro/CPP_07)         | Templates                        | ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 15  | [CPP Module 06](../../../42_CPP_intro/CPP_06)         | casts in CPP                     | ✅     | 100 / 100 % | C++ 98 |
