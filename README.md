@@ -9,15 +9,15 @@ In this Repo you will find the Projects I coded so far as part of the schools cu
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: | :------: |
 |--( 5 )--| 19  | [ft_irc](../../../ft_irc)                | creating an IRC server in C++    |  ✅     |  125 / 100 %  | C++ 98 |
 |--( 4 )--| 18  | [CPP Module 09](../../../CPP_09)         | containers, iterators, algorithms| ✅     | 100 / 100 % | C++ 98 |
-|--( 4 )--| 17  | [CPP Module 08](../../../42_CPP_intro/CPP_08)         | containers, iterators, algorithms| ✅     | 100 / 100 % | C++ 98 |
+|--( 4 )--| 17  | [CPP Module 08](../../../42_CPP_intro/tree/master/CPP_08)         | containers, iterators, algorithms| ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 16  | [CPP Module 07](../../../42_CPP_intro/tree/master/CPP_07)         | Templates                        | ✅     | 100 / 100 % | C++ 98 |
-|--( 4 )--| 15  | [CPP Module 06](../../../42_CPP_intro/CPP_06)         | casts in CPP                     | ✅     | 100 / 100 % | C++ 98 |
-|--( 4 )--| 14  | [CPP Module 05](../../../42_CPP_intro/CPP_05)         | Try/Catch and Exceptions         | ✅     | 100 / 100 % | C++ 98 |
-|--( 4 )--| 13  | [CPP Module 04](../../../42_CPP_intro/CPP_04)         | abstract classes and interfaces  | ✅     | 97 / 100 % | C++ 98 |
-|--( 4 )--| 12  | [CPP Module 03](../../../42_CPP_intro/CPP_03)         | Inheritance                      | ✅     | 100 / 100 % | C++ 98 |
-|--( 4 )--| 11  | [CPP Module 02](../../../42_CPP_intro/CPP_02)         | Ad-hoc polymorphism, overloads   | ✅     |  90 / 100 % | C++ 98 |
-|--( 4 )--| 10  | [CPP Module 01](../../../42_CPP_intro/CPP_01)         | memory, reference, pointers      | ✅     |  95 / 100 % | C++ 98 |
-|--( 4 )--| 9  | [CPP Module 00](../../../42_CPP_intro/CPP_00)         | Creating a Class                 | ✅     |  80 / 100 % | C++ 98 |
+|--( 4 )--| 15  | [CPP Module 06](../../../42_CPP_intro/tree/master/CPP_06)         | casts in CPP                     | ✅     | 100 / 100 % | C++ 98 |
+|--( 4 )--| 14  | [CPP Module 05](../../../42_CPP_intro/tree/master/CPP_05)         | Try/Catch and Exceptions         | ✅     | 100 / 100 % | C++ 98 |
+|--( 4 )--| 13  | [CPP Module 04](../../../42_CPP_intro/tree/master/CPP_04)         | abstract classes and interfaces  | ✅     | 97 / 100 % | C++ 98 |
+|--( 4 )--| 12  | [CPP Module 03](../../../42_CPP_intro/tree/master/CPP_03)         | Inheritance                      | ✅     | 100 / 100 % | C++ 98 |
+|--( 4 )--| 11  | [CPP Module 02](../../../42_CPP_intro/tree/master/CPP_02)         | Ad-hoc polymorphism, overloads   | ✅     |  90 / 100 % | C++ 98 |
+|--( 4 )--| 10  | [CPP Module 01](../../../42_CPP_intro/tree/master/CPP_01)         | memory, reference, pointers      | ✅     |  95 / 100 % | C++ 98 |
+|--( 4 )--| 9  | [CPP Module 00](../../../42_CPP_intro/tree/master/CPP_00)         | Creating a Class                 | ✅     |  80 / 100 % | C++ 98 |
 |--( 4 )--| 8  | [miniRT](../../../42_miniRT)                | Mini Ray-tracer                  | ✅     | 108 / 100 % | C |
 |--( 3 )--|  7  | [Philosophers](../../../42_philosophers)    | Threads and Processes            | ✅     | 100 / 100 % | C |
 |--( 3 )--|  6  | [minishell](../../../42_minishell)          | like a Bash shell                | ✅     | 110 / 100 % | C |
