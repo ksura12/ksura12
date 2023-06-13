@@ -24,7 +24,6 @@ In this Repo you will find the Projects I coded so far as part of the schools cu
 |--( 2 )--|  5  | [push_swap](../../../42_push_swap)          | sorting game algorythm           | ✅     | 100 / 100 % | C |
 |--( 2 )--|  4  | [pipex](../../../42_pipex)                    | recreating the pipe operator     | ✅     | 100 / 100 % | C |  
 |--( 2 )--|  3  | [Fract-ol](../../../42_Fract-ol)                 | colorfull Fractals               | ✅     | 125 / 100 % | C |
-|--( 1 )--|  2  | [ft_printf](../../../42_ft_printf)          | recoded printf standard function | ✅     | 125 / 100 % | C |
 |--( 0 )--|  1  | [Libft](../../../42_Libft)                  | first library                    | ✅     | 125 / 100 % | C | 
 
 
